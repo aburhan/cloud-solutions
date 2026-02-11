@@ -71,4 +71,4 @@ industries:
 products:
   - cloud_storage
   - storage_transfer_service
-  - gemini_cli
+  - gemini_api

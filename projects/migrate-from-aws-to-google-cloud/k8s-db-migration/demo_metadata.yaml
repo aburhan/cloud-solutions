@@ -69,7 +69,7 @@ industries:
   - all
 
 products:
-  - gke
+  - google_kubernetes_engine
   - cloud_sql
   - database_migration_service
-  - gemini_cli
+  - gemini_api
