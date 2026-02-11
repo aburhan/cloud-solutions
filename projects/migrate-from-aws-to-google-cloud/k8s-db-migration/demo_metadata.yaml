@@ -27,9 +27,6 @@ purpose: |
   * Generate migration recommendations using Gemini CLI for EKS cluster analysis.
 
 business_value: |
-  This replatforming migration offers significant benefits for organizations looking to modernize their containerized applications and leverage Google Cloud's managed services.
-
-  Key benefits include:
   * **Modernization:** Move to a fully managed Kubernetes service (GKE Autopilot) and a managed database (Cloud SQL), reducing operational burden and improving reliability.
   * **Cost Efficiency:** GKE Autopilot automatically scales and optimizes resources, leading to potential cost savings compared to self-managing EKS clusters.
   * **Enhanced Developer Experience:** Focus on application development rather than infrastructure management, with seamless deployments to GKE.

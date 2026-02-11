@@ -37,9 +37,6 @@ business_value: |
   * **Data-Driven Modernization:** Utilize tools like the Migration Center App Modernization Assessment for informed decisions and streamlined modernization paths.
 
 technical_value: |
-  This demo showcases a powerful combination of tools and Google Cloud services for comprehensive .NET application modernization.
-
-  Key technical insights:
   * **Automated Modernization:** Demonstrates the use of Gemini CLI to automatically refactor and modernize .NET Framework code to modern .NET standards.
   * **Migration Assessment:** Utilizes the `codmod` CLI (Migration Center App Modernization Assessment) to generate detailed reports for planning the modernization effort.
   * **Containerization:** Leverages Docker for packaging the modernized application, enabling portability and deployment across various environments.
