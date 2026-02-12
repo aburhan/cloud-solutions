@@ -34,7 +34,6 @@ business_value: |
   * **Informed Decision Making:** Leverage automated discovery and Gemini-powered recommendations for a data-driven migration strategy.
 
 technical_value: |
-  This demo provides a robust technical approach to migrating containerized workloads and databases, leveraging advanced tools and managed services:
   * **Hybrid Cloud Tools:** Demonstrates the use of Terraform for both AWS and GCP infrastructure provisioning, ensuring consistency and automation.
   * **Kubernetes Cluster Discovery:** Utilizes the Kubernetes Cluster Discovery Tool for detailed inventory and assessment of EKS resources, aiding in migration planning.
   * **Gemini-Powered Migration Analysis:** Showcases the integration of Gemini CLI to generate intelligent migration plans based on discovered EKS assets.

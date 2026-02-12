@@ -76,4 +76,4 @@ products:
   - cloud_sql
   - cloud_build
   - artifact_registry
-  - gemini
+  - gemini_api
