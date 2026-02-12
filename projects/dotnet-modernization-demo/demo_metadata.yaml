@@ -74,6 +74,4 @@ industries:
 products:
   - cloud_run
   - cloud_sql
-  - cloud_build
-  - artifact_registry
   - gemini_api
