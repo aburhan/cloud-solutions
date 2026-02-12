@@ -45,7 +45,7 @@ contributors:
   - ameenahb
   - ferrarim
 team_owner: "2175442982642"
-channel_id: 10
+channel_id: 84
 artifacts:
   - link: https://github.com/GoogleCloudPlatform/cloud-solutions/tree/main/projects/build-with-gemini-demo/security-scan-fix
     title: Code Repository
