@@ -40,14 +40,9 @@ channel_id: 84
 demo_guide: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.gblro3ah8q8f"
 
 artifacts:
-  - title: "Demo Script"
-    type: "document"
-    link: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.gblro3ah8q8f"
   - title: "Walkthrough Demo Video"
     type: "video"
     link: "https://drive.google.com/file/d/1sAIGpyOaMUCIyyPMSLYMqs8S0Wo1DQHM/view"
-
-featured_artifact_title: "Demo Script"
 featured_video_artifact_title: "Walkthrough Demo Video"
 
 industries:

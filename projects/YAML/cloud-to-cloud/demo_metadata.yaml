@@ -41,14 +41,9 @@ team_owner: 2175442982642
 channel_id: 84
 demo_guide: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.hemngut1g756"
 artifacts:
-  - title: "Demo Script"
-    type: "document"
-    link: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.hemngut1g756"
   - title: "Walkthrough Demo Video"
     type: "video"
     link: "https://drive.google.com/file/d/1vMns-zgFXRjsv9_bUyyUhwSoNKDrWwOT/view?usp=sharing"
-
-featured_artifact_title: "Demo Script"
 featured_video_artifact_title: "Walkthrough Demo Video"
 
 industries:
