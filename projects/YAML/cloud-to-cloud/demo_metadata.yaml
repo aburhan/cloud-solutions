@@ -1,0 +1,58 @@
+file_type: "demo"
+type: "video"
+title: "Cloud to Cloud TCO analysis"
+thumbnail_summary: "Estimate AWS to Google Cloud migration costs using the Cloud to Cloud assessment tool."
+
+purpose: |
+  This demo utilizes the Cloud to Cloud assessment tool to estimate the costs associated with migrating from AWS to Google Cloud. It demonstrates uploading AWS billing data for automated infrastructure mapping and generating a pricing report.
+
+  Key learning objectives:
+  * Understand the process of estimating AWS to Google Cloud migration costs.
+  * Learn to prepare the Google Cloud environment and Migration Center API.
+  * Understand how to create an assessment and upload AWS Cost and Usage Report (CUR) data.
+  * Monitor assessment execution and review raw mapped data.
+  * Generate a final pricing report in Google Sheets for cost analysis.
+
+business_value: |
+  Estimating cloud-to-cloud migration costs with this tool provides clear financial insights and simplifies planning.
+
+  Key benefits include:
+  * **Accurate Cost Estimation:** Gain precise estimates of migration costs for better financial planning.
+  * **Informed Decision-Making:** Facilitate strategic decisions by comparing current AWS spend vs. Google Cloud costs.
+  * **Accelerated Migration Planning:** Streamline the initial assessment phase.
+  * **Optimized Resource Mapping:** Automatically map AWS infrastructure to optimized Google Cloud regions.
+  * **Comprehensive Reporting:** Generate detailed pricing reports in Google Sheets.
+
+technical_value: |
+  * **Automated Data Ingestion:** Demonstrates uploading AWS CUR data for processing.
+  * **Intelligent Mapping:** Utilizes automatic mapping of AWS infrastructure to Google Cloud regions.
+  * **BigQuery Integration:** Shows how billing data is loaded into BigQuery for advanced SQL analysis.
+  * **Google Sheets Reporting:** Generates a visual pricing report for accessible analysis.
+  * **API-Driven Assessment:** Leverages Google Cloud APIs for seamless integration.
+  * **Scalable Assessment:** Designed for handling comprehensive AWS billing data.
+
+owner: ameenahb
+contributors:
+  - jatinksharma
+  - andreyshakirov
+  - ameenahb
+  - ferrarim
+team_owner: 2175442982642
+channel_id: 84
+demo_guide: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.hemngut1g756"
+artifacts:
+  - title: "Demo Script"
+    type: "document"
+    link: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.hemngut1g756"
+  - title: "Walkthrough Demo Video"
+    type: "video"
+    link: "https://drive.google.com/file/d/1vMns-zgFXRjsv9_bUyyUhwSoNKDrWwOT/view?usp=sharing"
+
+featured_artifact_title: "Demo Script"
+featured_video_artifact_title: "Walkthrough Demo Video"
+
+industries:
+  - "all"
+
+products:
+  - "migration_center"

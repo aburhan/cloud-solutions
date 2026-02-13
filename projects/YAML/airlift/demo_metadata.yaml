@@ -1,0 +1,58 @@
+file_type: "demo"
+type: "video"
+title: "Quick proposal for GCE (Airlift)"
+thumbnail_summary: "Create quick, professional GCE proposals and TCO comparisons using high-level data."
+
+purpose: |
+  This demo showcases Migration Center Airlift GCE, an internal tool designed to rapidly generate early-stage business cases for migrating on-premises VMWare environments to Google Compute Engine.
+
+  Key learning objectives:
+  * Understand when to use Airlift GCE for early-stage business cases versus full Migration Center assessments.
+  * Learn to input aggregate on-premises VM data into the 'Technical Estimation' tab.
+  * Model TCO by configuring commercial aspects like TCO term and CUD plans.
+  * Generate a customer-ready proposal document in Google Docs.
+  * Understand 'Auto Defaults Mode' and the impact of 'Disable SMT' for licensing optimization.
+
+business_value: |
+  Airlift GCE accelerates the sales cycle by enabling rapid, data-driven financial conversations.
+
+  Key benefits include:
+  * **Speed and Simplicity:** Generate comprehensive proposals in minutes with minimal data points.
+  * **Rapid Business Case Generation:** Quickly demonstrate potential financial benefits and build momentum.
+  * **Reduced Assessment Time:** Streamline the initial assessment phase for faster customer engagement.
+  * **Customer-Ready Output:** Deliver professional, editable Google Docs proposals.
+  * **Optimized Cost Management:** Model various CUD scenarios and leverage rightsizing recommendations.
+
+technical_value: |
+  * **Recommendation Engine:** Utilizes 'Auto Defaults Mode' based on real assessment data for optimized GCE configurations.
+  * **Configurable Sizing:** Allows granular control over target GCE environment settings.
+  * **Licensing Optimization:** Demonstrates disabling SMT for per-core licensed workloads to achieve cost savings.
+  * **Integrated Proposal Generation:** Compiles configuration and TCO calculations into a Google Docs template.
+  * **Data-Driven Approach:** Emphasizes using aggregated data for estimations.
+owner: ameenahb
+contributors:
+  - jatinksharma
+  - andreyshakirov
+  - ameenahb
+  - ferrarim
+team_owner: 2175442982642
+channel_id: 84
+demo_guide: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.gblro3ah8q8f"
+
+artifacts:
+  - title: "Demo Script"
+    type: "document"
+    link: "https://docs.google.com/document/d/1U0DrU-1w3b-rExrDGyd0REtxlujAA6796fThWskPlmY/edit?resourcekey=0-zJ1dl2Z5mzAAXBVegfEOWw&tab=t.gblro3ah8q8f"
+  - title: "Walkthrough Demo Video"
+    type: "video"
+    link: "https://drive.google.com/file/d/1bQmGnTFaVQvJp93mMnczPeWuUdsNRnwX/view?usp=sharing"
+
+featured_artifact_title: "Demo Script"
+featured_video_artifact_title: "Walkthrough Demo Video"
+
+industries:
+  - "all"
+
+products:
+  - "compute_engine"
+  - "migration_center"
